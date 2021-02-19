@@ -1,2 +1,2 @@
 # Mars2020
- https://github.com/lalithu/Mars2020
+lalithu.github.io/mars2020/
