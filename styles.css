@@ -38,11 +38,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 35px;
-  margin: bottom;
-  padding: 10px;
-  background-color: crimson;
-  box-shadow: 0px -10px 60px crimson;
+  height: 55px;
+  background-color: dodgerblue;
+  box-shadow: 0px -10px 60px dodgerblue;
   z-index: 10;
   position: fixed;
   left: 0;
