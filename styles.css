@@ -41,8 +41,8 @@ body {
   height: 35px;
   margin: bottom;
   padding: 10px;
-  background-color: dodgerblue;
-  box-shadow: 0px -10px 60px dodgerblue;
+  background-color: crimson;
+  box-shadow: 0px -10px 60px crimson;
   z-index: 10;
   position: fixed;
   left: 0;
